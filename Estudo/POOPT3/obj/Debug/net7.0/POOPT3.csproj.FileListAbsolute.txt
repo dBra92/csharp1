@@ -1,0 +1,15 @@
+/home/dan92/Documentos/EstudoCsharp/POOPT3/obj/Debug/net7.0/POOPT3.csproj.AssemblyReference.cache
+/home/dan92/Documentos/EstudoCsharp/POOPT3/obj/Debug/net7.0/POOPT3.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/EstudoCsharp/POOPT3/obj/Debug/net7.0/POOPT3.AssemblyInfoInputs.cache
+/home/dan92/Documentos/EstudoCsharp/POOPT3/obj/Debug/net7.0/POOPT3.AssemblyInfo.cs
+/home/dan92/Documentos/EstudoCsharp/POOPT3/obj/Debug/net7.0/POOPT3.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/EstudoCsharp/POOPT3/bin/Debug/net7.0/POOPT3
+/home/dan92/Documentos/EstudoCsharp/POOPT3/bin/Debug/net7.0/POOPT3.deps.json
+/home/dan92/Documentos/EstudoCsharp/POOPT3/bin/Debug/net7.0/POOPT3.runtimeconfig.json
+/home/dan92/Documentos/EstudoCsharp/POOPT3/bin/Debug/net7.0/POOPT3.dll
+/home/dan92/Documentos/EstudoCsharp/POOPT3/bin/Debug/net7.0/POOPT3.pdb
+/home/dan92/Documentos/EstudoCsharp/POOPT3/obj/Debug/net7.0/POOPT3.dll
+/home/dan92/Documentos/EstudoCsharp/POOPT3/obj/Debug/net7.0/refint/POOPT3.dll
+/home/dan92/Documentos/EstudoCsharp/POOPT3/obj/Debug/net7.0/POOPT3.pdb
+/home/dan92/Documentos/EstudoCsharp/POOPT3/obj/Debug/net7.0/POOPT3.genruntimeconfig.cache
+/home/dan92/Documentos/EstudoCsharp/POOPT3/obj/Debug/net7.0/ref/POOPT3.dll

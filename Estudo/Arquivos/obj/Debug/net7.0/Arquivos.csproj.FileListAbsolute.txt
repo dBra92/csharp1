@@ -1,0 +1,15 @@
+/home/dan92/Documentos/EstudoCsharp/Estudo/Arquivos/obj/Debug/net7.0/Arquivos.csproj.AssemblyReference.cache
+/home/dan92/Documentos/EstudoCsharp/Estudo/Arquivos/obj/Debug/net7.0/Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/EstudoCsharp/Estudo/Arquivos/obj/Debug/net7.0/Arquivos.AssemblyInfoInputs.cache
+/home/dan92/Documentos/EstudoCsharp/Estudo/Arquivos/obj/Debug/net7.0/Arquivos.AssemblyInfo.cs
+/home/dan92/Documentos/EstudoCsharp/Estudo/Arquivos/obj/Debug/net7.0/Arquivos.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/EstudoCsharp/Estudo/Arquivos/bin/Debug/net7.0/Arquivos
+/home/dan92/Documentos/EstudoCsharp/Estudo/Arquivos/bin/Debug/net7.0/Arquivos.deps.json
+/home/dan92/Documentos/EstudoCsharp/Estudo/Arquivos/bin/Debug/net7.0/Arquivos.runtimeconfig.json
+/home/dan92/Documentos/EstudoCsharp/Estudo/Arquivos/bin/Debug/net7.0/Arquivos.dll
+/home/dan92/Documentos/EstudoCsharp/Estudo/Arquivos/bin/Debug/net7.0/Arquivos.pdb
+/home/dan92/Documentos/EstudoCsharp/Estudo/Arquivos/obj/Debug/net7.0/Arquivos.dll
+/home/dan92/Documentos/EstudoCsharp/Estudo/Arquivos/obj/Debug/net7.0/refint/Arquivos.dll
+/home/dan92/Documentos/EstudoCsharp/Estudo/Arquivos/obj/Debug/net7.0/Arquivos.pdb
+/home/dan92/Documentos/EstudoCsharp/Estudo/Arquivos/obj/Debug/net7.0/Arquivos.genruntimeconfig.cache
+/home/dan92/Documentos/EstudoCsharp/Estudo/Arquivos/obj/Debug/net7.0/ref/Arquivos.dll

@@ -1,0 +1,15 @@
+/home/dan92/Documentos/EstudoCsharp/Estudo/Interfacez/obj/Debug/net7.0/Interfacez.csproj.AssemblyReference.cache
+/home/dan92/Documentos/EstudoCsharp/Estudo/Interfacez/obj/Debug/net7.0/Interfacez.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/EstudoCsharp/Estudo/Interfacez/obj/Debug/net7.0/Interfacez.AssemblyInfoInputs.cache
+/home/dan92/Documentos/EstudoCsharp/Estudo/Interfacez/obj/Debug/net7.0/Interfacez.AssemblyInfo.cs
+/home/dan92/Documentos/EstudoCsharp/Estudo/Interfacez/obj/Debug/net7.0/Interfacez.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/EstudoCsharp/Estudo/Interfacez/bin/Debug/net7.0/Interfacez
+/home/dan92/Documentos/EstudoCsharp/Estudo/Interfacez/bin/Debug/net7.0/Interfacez.deps.json
+/home/dan92/Documentos/EstudoCsharp/Estudo/Interfacez/bin/Debug/net7.0/Interfacez.runtimeconfig.json
+/home/dan92/Documentos/EstudoCsharp/Estudo/Interfacez/bin/Debug/net7.0/Interfacez.dll
+/home/dan92/Documentos/EstudoCsharp/Estudo/Interfacez/bin/Debug/net7.0/Interfacez.pdb
+/home/dan92/Documentos/EstudoCsharp/Estudo/Interfacez/obj/Debug/net7.0/Interfacez.dll
+/home/dan92/Documentos/EstudoCsharp/Estudo/Interfacez/obj/Debug/net7.0/refint/Interfacez.dll
+/home/dan92/Documentos/EstudoCsharp/Estudo/Interfacez/obj/Debug/net7.0/Interfacez.pdb
+/home/dan92/Documentos/EstudoCsharp/Estudo/Interfacez/obj/Debug/net7.0/Interfacez.genruntimeconfig.cache
+/home/dan92/Documentos/EstudoCsharp/Estudo/Interfacez/obj/Debug/net7.0/ref/Interfacez.dll

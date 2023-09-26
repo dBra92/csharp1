@@ -1,0 +1,15 @@
+/home/dan92/Documentos/EstudoCsharp/Exercises/Exercs7/obj/Debug/net7.0/Exercs7.csproj.AssemblyReference.cache
+/home/dan92/Documentos/EstudoCsharp/Exercises/Exercs7/obj/Debug/net7.0/Exercs7.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/EstudoCsharp/Exercises/Exercs7/obj/Debug/net7.0/Exercs7.AssemblyInfoInputs.cache
+/home/dan92/Documentos/EstudoCsharp/Exercises/Exercs7/obj/Debug/net7.0/Exercs7.AssemblyInfo.cs
+/home/dan92/Documentos/EstudoCsharp/Exercises/Exercs7/obj/Debug/net7.0/Exercs7.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/EstudoCsharp/Exercises/Exercs7/bin/Debug/net7.0/Exercs7
+/home/dan92/Documentos/EstudoCsharp/Exercises/Exercs7/bin/Debug/net7.0/Exercs7.deps.json
+/home/dan92/Documentos/EstudoCsharp/Exercises/Exercs7/bin/Debug/net7.0/Exercs7.runtimeconfig.json
+/home/dan92/Documentos/EstudoCsharp/Exercises/Exercs7/bin/Debug/net7.0/Exercs7.dll
+/home/dan92/Documentos/EstudoCsharp/Exercises/Exercs7/bin/Debug/net7.0/Exercs7.pdb
+/home/dan92/Documentos/EstudoCsharp/Exercises/Exercs7/obj/Debug/net7.0/Exercs7.dll
+/home/dan92/Documentos/EstudoCsharp/Exercises/Exercs7/obj/Debug/net7.0/refint/Exercs7.dll
+/home/dan92/Documentos/EstudoCsharp/Exercises/Exercs7/obj/Debug/net7.0/Exercs7.pdb
+/home/dan92/Documentos/EstudoCsharp/Exercises/Exercs7/obj/Debug/net7.0/Exercs7.genruntimeconfig.cache
+/home/dan92/Documentos/EstudoCsharp/Exercises/Exercs7/obj/Debug/net7.0/ref/Exercs7.dll

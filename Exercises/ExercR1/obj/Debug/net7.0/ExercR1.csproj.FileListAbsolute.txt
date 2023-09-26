@@ -1,0 +1,15 @@
+/home/dan92/Documentos/EstudoCsharp/Exercises/ExercR1/obj/Debug/net7.0/ExercR1.csproj.AssemblyReference.cache
+/home/dan92/Documentos/EstudoCsharp/Exercises/ExercR1/obj/Debug/net7.0/ExercR1.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/EstudoCsharp/Exercises/ExercR1/obj/Debug/net7.0/ExercR1.AssemblyInfoInputs.cache
+/home/dan92/Documentos/EstudoCsharp/Exercises/ExercR1/obj/Debug/net7.0/ExercR1.AssemblyInfo.cs
+/home/dan92/Documentos/EstudoCsharp/Exercises/ExercR1/obj/Debug/net7.0/ExercR1.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/EstudoCsharp/Exercises/ExercR1/bin/Debug/net7.0/ExercR1
+/home/dan92/Documentos/EstudoCsharp/Exercises/ExercR1/bin/Debug/net7.0/ExercR1.deps.json
+/home/dan92/Documentos/EstudoCsharp/Exercises/ExercR1/bin/Debug/net7.0/ExercR1.runtimeconfig.json
+/home/dan92/Documentos/EstudoCsharp/Exercises/ExercR1/bin/Debug/net7.0/ExercR1.dll
+/home/dan92/Documentos/EstudoCsharp/Exercises/ExercR1/bin/Debug/net7.0/ExercR1.pdb
+/home/dan92/Documentos/EstudoCsharp/Exercises/ExercR1/obj/Debug/net7.0/ExercR1.dll
+/home/dan92/Documentos/EstudoCsharp/Exercises/ExercR1/obj/Debug/net7.0/refint/ExercR1.dll
+/home/dan92/Documentos/EstudoCsharp/Exercises/ExercR1/obj/Debug/net7.0/ExercR1.pdb
+/home/dan92/Documentos/EstudoCsharp/Exercises/ExercR1/obj/Debug/net7.0/ExercR1.genruntimeconfig.cache
+/home/dan92/Documentos/EstudoCsharp/Exercises/ExercR1/obj/Debug/net7.0/ref/ExercR1.dll

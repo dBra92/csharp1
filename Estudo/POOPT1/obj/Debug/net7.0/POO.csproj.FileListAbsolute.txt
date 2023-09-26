@@ -1,0 +1,15 @@
+/home/dan92/Documentos/EstudoCsharp/POO/obj/Debug/net7.0/POO.csproj.AssemblyReference.cache
+/home/dan92/Documentos/EstudoCsharp/POO/obj/Debug/net7.0/POO.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/EstudoCsharp/POO/obj/Debug/net7.0/POO.AssemblyInfoInputs.cache
+/home/dan92/Documentos/EstudoCsharp/POO/obj/Debug/net7.0/POO.AssemblyInfo.cs
+/home/dan92/Documentos/EstudoCsharp/POO/obj/Debug/net7.0/POO.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/EstudoCsharp/POO/bin/Debug/net7.0/POO
+/home/dan92/Documentos/EstudoCsharp/POO/bin/Debug/net7.0/POO.deps.json
+/home/dan92/Documentos/EstudoCsharp/POO/bin/Debug/net7.0/POO.runtimeconfig.json
+/home/dan92/Documentos/EstudoCsharp/POO/bin/Debug/net7.0/POO.dll
+/home/dan92/Documentos/EstudoCsharp/POO/bin/Debug/net7.0/POO.pdb
+/home/dan92/Documentos/EstudoCsharp/POO/obj/Debug/net7.0/POO.dll
+/home/dan92/Documentos/EstudoCsharp/POO/obj/Debug/net7.0/refint/POO.dll
+/home/dan92/Documentos/EstudoCsharp/POO/obj/Debug/net7.0/POO.pdb
+/home/dan92/Documentos/EstudoCsharp/POO/obj/Debug/net7.0/POO.genruntimeconfig.cache
+/home/dan92/Documentos/EstudoCsharp/POO/obj/Debug/net7.0/ref/POO.dll

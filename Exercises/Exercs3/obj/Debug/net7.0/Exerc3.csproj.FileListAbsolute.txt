@@ -1,0 +1,15 @@
+/home/dan92/Documentos/EstudoCsharp/Exercs3/obj/Debug/net7.0/Exerc3.csproj.AssemblyReference.cache
+/home/dan92/Documentos/EstudoCsharp/Exercs3/obj/Debug/net7.0/Exerc3.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/EstudoCsharp/Exercs3/obj/Debug/net7.0/Exerc3.AssemblyInfoInputs.cache
+/home/dan92/Documentos/EstudoCsharp/Exercs3/obj/Debug/net7.0/Exerc3.AssemblyInfo.cs
+/home/dan92/Documentos/EstudoCsharp/Exercs3/obj/Debug/net7.0/Exerc3.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/EstudoCsharp/Exercs3/bin/Debug/net7.0/Exerc3
+/home/dan92/Documentos/EstudoCsharp/Exercs3/bin/Debug/net7.0/Exerc3.deps.json
+/home/dan92/Documentos/EstudoCsharp/Exercs3/bin/Debug/net7.0/Exerc3.runtimeconfig.json
+/home/dan92/Documentos/EstudoCsharp/Exercs3/bin/Debug/net7.0/Exerc3.dll
+/home/dan92/Documentos/EstudoCsharp/Exercs3/bin/Debug/net7.0/Exerc3.pdb
+/home/dan92/Documentos/EstudoCsharp/Exercs3/obj/Debug/net7.0/Exerc3.dll
+/home/dan92/Documentos/EstudoCsharp/Exercs3/obj/Debug/net7.0/refint/Exerc3.dll
+/home/dan92/Documentos/EstudoCsharp/Exercs3/obj/Debug/net7.0/Exerc3.pdb
+/home/dan92/Documentos/EstudoCsharp/Exercs3/obj/Debug/net7.0/Exerc3.genruntimeconfig.cache
+/home/dan92/Documentos/EstudoCsharp/Exercs3/obj/Debug/net7.0/ref/Exerc3.dll

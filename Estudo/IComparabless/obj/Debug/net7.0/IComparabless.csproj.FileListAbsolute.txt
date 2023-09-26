@@ -1,0 +1,15 @@
+/home/dan92/Documentos/EstudoCsharp/Estudo/IComparabless/obj/Debug/net7.0/IComparabless.csproj.AssemblyReference.cache
+/home/dan92/Documentos/EstudoCsharp/Estudo/IComparabless/obj/Debug/net7.0/IComparabless.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/EstudoCsharp/Estudo/IComparabless/obj/Debug/net7.0/IComparabless.AssemblyInfoInputs.cache
+/home/dan92/Documentos/EstudoCsharp/Estudo/IComparabless/obj/Debug/net7.0/IComparabless.AssemblyInfo.cs
+/home/dan92/Documentos/EstudoCsharp/Estudo/IComparabless/obj/Debug/net7.0/IComparabless.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/EstudoCsharp/Estudo/IComparabless/bin/Debug/net7.0/IComparabless
+/home/dan92/Documentos/EstudoCsharp/Estudo/IComparabless/bin/Debug/net7.0/IComparabless.deps.json
+/home/dan92/Documentos/EstudoCsharp/Estudo/IComparabless/bin/Debug/net7.0/IComparabless.runtimeconfig.json
+/home/dan92/Documentos/EstudoCsharp/Estudo/IComparabless/bin/Debug/net7.0/IComparabless.dll
+/home/dan92/Documentos/EstudoCsharp/Estudo/IComparabless/bin/Debug/net7.0/IComparabless.pdb
+/home/dan92/Documentos/EstudoCsharp/Estudo/IComparabless/obj/Debug/net7.0/IComparabless.dll
+/home/dan92/Documentos/EstudoCsharp/Estudo/IComparabless/obj/Debug/net7.0/refint/IComparabless.dll
+/home/dan92/Documentos/EstudoCsharp/Estudo/IComparabless/obj/Debug/net7.0/IComparabless.pdb
+/home/dan92/Documentos/EstudoCsharp/Estudo/IComparabless/obj/Debug/net7.0/IComparabless.genruntimeconfig.cache
+/home/dan92/Documentos/EstudoCsharp/Estudo/IComparabless/obj/Debug/net7.0/ref/IComparabless.dll

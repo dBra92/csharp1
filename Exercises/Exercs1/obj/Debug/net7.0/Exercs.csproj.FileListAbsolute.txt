@@ -1,0 +1,15 @@
+/home/dan92/Documentos/EstudoCsharp/Exercs/obj/Debug/net7.0/Exercs.csproj.AssemblyReference.cache
+/home/dan92/Documentos/EstudoCsharp/Exercs/obj/Debug/net7.0/Exercs.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/EstudoCsharp/Exercs/obj/Debug/net7.0/Exercs.AssemblyInfoInputs.cache
+/home/dan92/Documentos/EstudoCsharp/Exercs/obj/Debug/net7.0/Exercs.AssemblyInfo.cs
+/home/dan92/Documentos/EstudoCsharp/Exercs/obj/Debug/net7.0/Exercs.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/EstudoCsharp/Exercs/bin/Debug/net7.0/Exercs
+/home/dan92/Documentos/EstudoCsharp/Exercs/bin/Debug/net7.0/Exercs.deps.json
+/home/dan92/Documentos/EstudoCsharp/Exercs/bin/Debug/net7.0/Exercs.runtimeconfig.json
+/home/dan92/Documentos/EstudoCsharp/Exercs/bin/Debug/net7.0/Exercs.dll
+/home/dan92/Documentos/EstudoCsharp/Exercs/bin/Debug/net7.0/Exercs.pdb
+/home/dan92/Documentos/EstudoCsharp/Exercs/obj/Debug/net7.0/Exercs.dll
+/home/dan92/Documentos/EstudoCsharp/Exercs/obj/Debug/net7.0/refint/Exercs.dll
+/home/dan92/Documentos/EstudoCsharp/Exercs/obj/Debug/net7.0/Exercs.pdb
+/home/dan92/Documentos/EstudoCsharp/Exercs/obj/Debug/net7.0/Exercs.genruntimeconfig.cache
+/home/dan92/Documentos/EstudoCsharp/Exercs/obj/Debug/net7.0/ref/Exercs.dll

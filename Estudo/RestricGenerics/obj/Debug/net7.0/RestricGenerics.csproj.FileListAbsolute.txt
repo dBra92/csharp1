@@ -1,0 +1,15 @@
+/home/dan92/Documentos/CSharp/Estudo/RestricGenerics/obj/Debug/net7.0/RestricGenerics.csproj.AssemblyReference.cache
+/home/dan92/Documentos/CSharp/Estudo/RestricGenerics/obj/Debug/net7.0/RestricGenerics.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/CSharp/Estudo/RestricGenerics/obj/Debug/net7.0/RestricGenerics.AssemblyInfoInputs.cache
+/home/dan92/Documentos/CSharp/Estudo/RestricGenerics/obj/Debug/net7.0/RestricGenerics.AssemblyInfo.cs
+/home/dan92/Documentos/CSharp/Estudo/RestricGenerics/obj/Debug/net7.0/RestricGenerics.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/CSharp/Estudo/RestricGenerics/bin/Debug/net7.0/RestricGenerics
+/home/dan92/Documentos/CSharp/Estudo/RestricGenerics/bin/Debug/net7.0/RestricGenerics.deps.json
+/home/dan92/Documentos/CSharp/Estudo/RestricGenerics/bin/Debug/net7.0/RestricGenerics.runtimeconfig.json
+/home/dan92/Documentos/CSharp/Estudo/RestricGenerics/bin/Debug/net7.0/RestricGenerics.dll
+/home/dan92/Documentos/CSharp/Estudo/RestricGenerics/bin/Debug/net7.0/RestricGenerics.pdb
+/home/dan92/Documentos/CSharp/Estudo/RestricGenerics/obj/Debug/net7.0/RestricGenerics.dll
+/home/dan92/Documentos/CSharp/Estudo/RestricGenerics/obj/Debug/net7.0/refint/RestricGenerics.dll
+/home/dan92/Documentos/CSharp/Estudo/RestricGenerics/obj/Debug/net7.0/RestricGenerics.pdb
+/home/dan92/Documentos/CSharp/Estudo/RestricGenerics/obj/Debug/net7.0/RestricGenerics.genruntimeconfig.cache
+/home/dan92/Documentos/CSharp/Estudo/RestricGenerics/obj/Debug/net7.0/ref/RestricGenerics.dll

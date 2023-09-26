@@ -1,0 +1,15 @@
+/home/dan92/Documentos/EstudoCsharp/Excecoes/obj/Debug/net7.0/Excecoes.csproj.AssemblyReference.cache
+/home/dan92/Documentos/EstudoCsharp/Excecoes/obj/Debug/net7.0/Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/EstudoCsharp/Excecoes/obj/Debug/net7.0/Excecoes.AssemblyInfoInputs.cache
+/home/dan92/Documentos/EstudoCsharp/Excecoes/obj/Debug/net7.0/Excecoes.AssemblyInfo.cs
+/home/dan92/Documentos/EstudoCsharp/Excecoes/obj/Debug/net7.0/Excecoes.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/EstudoCsharp/Excecoes/bin/Debug/net7.0/Excecoes
+/home/dan92/Documentos/EstudoCsharp/Excecoes/bin/Debug/net7.0/Excecoes.deps.json
+/home/dan92/Documentos/EstudoCsharp/Excecoes/bin/Debug/net7.0/Excecoes.runtimeconfig.json
+/home/dan92/Documentos/EstudoCsharp/Excecoes/bin/Debug/net7.0/Excecoes.dll
+/home/dan92/Documentos/EstudoCsharp/Excecoes/bin/Debug/net7.0/Excecoes.pdb
+/home/dan92/Documentos/EstudoCsharp/Excecoes/obj/Debug/net7.0/Excecoes.dll
+/home/dan92/Documentos/EstudoCsharp/Excecoes/obj/Debug/net7.0/refint/Excecoes.dll
+/home/dan92/Documentos/EstudoCsharp/Excecoes/obj/Debug/net7.0/Excecoes.pdb
+/home/dan92/Documentos/EstudoCsharp/Excecoes/obj/Debug/net7.0/Excecoes.genruntimeconfig.cache
+/home/dan92/Documentos/EstudoCsharp/Excecoes/obj/Debug/net7.0/ref/Excecoes.dll
